@@ -1,0 +1,10 @@
+#sfondo {
+    background :lightskyblue;
+    background-image:url(pattern.png);
+    background-size: contain;
+    }
+
+  #logo {
+      width: 100px;
+      height: 100px;
+  }
