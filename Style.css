@@ -8,3 +8,16 @@
       width: 100px;
       height: 100px;
   }
+
+  h1 {
+      text-align: center;
+  }
+
+  p {
+      text-align: center;
+  }
+  
+  #foto {
+      text-align: center;
+
+  }
