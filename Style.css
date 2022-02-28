@@ -1,4 +1,12 @@
-#sfondo {
+main {
+    margin-left: 10%;
+    }
+
+footer {
+    margin-left: 10%;
+
+}    
+ #sfondo {
     background :lightskyblue;
     background-image: url(pattern.png);
     background-size: contain;
@@ -8,19 +16,7 @@
       width: 100px;
       height: 100px;
   }
-
-  h1 {
-    text-align: center;
   }
-
-  main {
-    text-align: center;
-  }
-  
-  #foto {
-    text-align: center;
-    }
-
     th {
         background-color: rgb(37, 150, 190);
     }
