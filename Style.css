@@ -1,6 +1,6 @@
 #sfondo {
     background :lightskyblue;
-    background-image:url(pattern.png);
+    background-image: url(pattern.png);
     background-size: contain;
     }
 
@@ -10,14 +10,37 @@
   }
 
   h1 {
-      text-align: center;
+    text-align: center;
   }
 
-  p {
-      text-align: center;
+  main {
+    text-align: center;
   }
   
   #foto {
-      text-align: center;
+    text-align: center;
+    }
 
-  }
+    th {
+        background-color: rgb(37, 150, 190);
+    }
+
+    .Tab {
+        background-color: aqua;
+    }
+
+    #first {
+        background-image: url(monitor.jpg);
+        background-size: cover;
+        width: 150px;
+        height: 150px;
+
+
+    }
+
+    #second {
+        background-image: url(graph.jpg);
+        background-size: contain;
+        width: 150px;
+        height: 150px;
+    }
