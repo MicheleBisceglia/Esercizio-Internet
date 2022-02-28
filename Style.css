@@ -12,54 +12,56 @@ footer {
     background-size: contain;
     }
 
-  #logo {
+#logo {
       width: 100px;
       height: 100px;
   }
-  
-  H1 {
+
+ H1 {
       margin-bottom: 0%;
   }
 
-  #foto {
-      margin-top: 30px;
-      margin-bottom: 30px;
+#foto {
+     margin-top: 30px;
+     margin-bottom: 30px;
   }
 
   p {
-      margin-top: 0%;
-      margin-bottom: 0%;
+     margin-top: 0%;
+     margin-bottom: 0%;
   }
 
-    th {
-        background-color: rgb(31, 135, 167);
+ th {
+     background-color: rgb(31, 135, 167);
     }
 
-    .Tab {
-        background-color: rgb(0, 174, 255);
-        margin-bottom: 50px;
-        margin-top: 30px;
+ .Tab {
+     background-color: rgb(0, 174, 255);
+     margin-bottom: 50px;
+     margin-top: 30%;
     }
 
-    #first {
-        background-image: url(monitor.jpg);
-        background-size: cover;
-        width: 150px;
-        height: 150px;
-        color: white;
-
-
+ #first {
+     background-image: url(monitor.jpg);
+     background-size: cover;
+     width: 150px;
+     height: 150px;
+     color: white;
     }
 
-    #second {
-        background-image: url(graph.jpg);
-        background-size: contain;
-        width: 150px;
-        height: 150px;
-        color:white;
-        margin-top: 5px;
+ #second {
+     background-image: url(graph.jpg);
+     background-size: contain;
+     width: 150px;
+     height: 150px;
+     color:white;
+     margin-top: 5px;
     }
 
-  #evidenziato {
-      background-color: yellow;
+ #evidenziato {
+     background-color: yellow;
+  }
+
+  #testo {
+      margin-bottom: 5%;
   }
