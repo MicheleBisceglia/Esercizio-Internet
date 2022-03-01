@@ -1,12 +1,4 @@
-main {
-    margin-left: 10%;
-    }
-
-footer {
-    margin-left: 10%;
-
-}    
- #sfondo {
+#sfondo {
     background :lightskyblue;
     background-image: url(pattern.png);
     background-size: contain;
@@ -21,12 +13,30 @@ footer {
       margin-bottom: 0%;
   }
 
+  h6 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: grey;
+}
+
 #foto {
      margin-top: 30px;
-     margin-bottom: 30px;
+     margin-bottom: 0px;
+     margin-left: 0%;
   }
 
-  p {
+  a {
+    color: blue;
+}
+
+#Didascalia {
+    margin-top: 0%;
+}
+
+#Content {margin-top: 20px;
+    }
+ 
+p {
      margin-top: 0%;
      margin-bottom: 0%;
   }
@@ -35,9 +45,14 @@ footer {
      background-color: rgb(31, 135, 167);
     }
 
+ #tabella {
+     margin-top: 30px;
+     margin-bottom: 30px;
+ }
+    
  .Tab {
      background-color: rgb(0, 174, 255);
-     margin-bottom: 50px;
+     margin-bottom: 30px;
      margin-top: 30%;
     }
 
@@ -58,10 +73,10 @@ footer {
      margin-top: 5px;
     }
 
- #evidenziato {
+ .evidenziato {
      background-color: yellow;
   }
 
   #testo {
-      margin-bottom: 5%;
+      margin-bottom: 30px;
   }
