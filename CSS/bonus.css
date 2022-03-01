@@ -1,3 +1,5 @@
+/*Non collegato al file index.html*/
+
 /*Accentramento*/
 main {
     margin-left: 10%;
@@ -12,7 +14,7 @@ footer {
 /*header*/   
  #sfondo {
     background :lightskyblue;
-    background-image: url(pattern.png);
+    background-image: url(img/pattern.png);
     background-size: contain;
     }
 
@@ -76,7 +78,7 @@ th {
 
  /*Footer*/
   #first {
-    background-image: url(monitor.jpg);
+    background-image: url(img/monitor.jpg);
     background-size: cover;
     width: 150px;
     height: 150px;
@@ -84,7 +86,7 @@ th {
    }
 
 #second {
-    background-image: url(graph.jpg);
+    background-image: url(img/graph.jpg);
     background-size: contain;
     width: 150px;
     height: 150px;
