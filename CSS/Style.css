@@ -1,7 +1,7 @@
 /*header*/ 
 #sfondo {
     background :lightskyblue;
-    background-image: url(pattern.png);
+    background-image: url(img/pattern.png);
     background-size: contain;
     }
 
@@ -68,7 +68,7 @@ h6 {
   
 /*footer*/
  #first {
-    background-image: url(monitor.jpg);
+    background-image: url(img/monitor.jpg);
     background-size: cover;
     width: 150px;
     height: 150px;
@@ -76,7 +76,7 @@ h6 {
    }
 
 #second {
-    background-image: url(graph.jpg);
+    background-image: url(img/graph.jpg);
     background-size: contain;
     width: 150px;
     height: 150px;
