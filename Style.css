@@ -1,3 +1,4 @@
+/*header*/ 
 #sfondo {
     background :lightskyblue;
     background-image: url(pattern.png);
@@ -9,11 +10,13 @@
       height: 100px;
   }
 
- H1 {
+
+ /*Titolo e foto*/
+H1 {
       margin-bottom: 0%;
   }
 
-  h6 {
+h6 {
     margin-top: 0%;
     margin-bottom: 0%;
     color: grey;
@@ -33,14 +36,8 @@
     margin-top: 0%;
 }
 
-#Content {margin-top: 20px;
-    }
- 
-p {
-     margin-top: 0%;
-     margin-bottom: 0%;
-  }
 
+/*Tabella*/
  th {
      background-color: rgb(31, 135, 167);
     }
@@ -56,23 +53,8 @@ p {
      margin-top: 30%;
     }
 
- #first {
-     background-image: url(monitor.jpg);
-     background-size: cover;
-     width: 150px;
-     height: 150px;
-     color: white;
-    }
 
- #second {
-     background-image: url(graph.jpg);
-     background-size: contain;
-     width: 150px;
-     height: 150px;
-     color:white;
-     margin-top: 5px;
-    }
-
+/*Testo*/
  .evidenziato {
      background-color: yellow;
   }
@@ -80,3 +62,24 @@ p {
   #testo {
       margin-bottom: 30px;
   }
+  #Content {margin-top: 20px;
+  }
+
+  
+/*footer*/
+ #first {
+    background-image: url(monitor.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    color: white;
+   }
+
+#second {
+    background-image: url(graph.jpg);
+    background-size: contain;
+    width: 150px;
+    height: 150px;
+    color:white;
+    margin-top: 5px;
+   }
